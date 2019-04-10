@@ -1,1 +1,1 @@
-# CPP-Verkefni2
+# CPP-Verkefni2 - Andri Fannar
